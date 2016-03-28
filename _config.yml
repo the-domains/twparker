@@ -2,12 +2,13 @@ name: twparker
 favicon: null
 layout_spectrum: 0.24512532143853605
 typography_spectrum: 0.6607549167238176
+title: Thomas W. Parker III
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-75684570-1
   facebook: null
   twitter: null
 opengraph:
